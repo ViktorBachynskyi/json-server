@@ -28,5 +28,12 @@
       "category": "War novel",
       "ISBN": "523905"
     }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "apple",
+      "count": 6
+    }
   ]
 }

@@ -28,15 +28,5 @@
       "category": "War novel",
       "ISBN": "523905"
     }
-  ],
-  "products": [
-    {
-    "id": 1,
-    "imageUrl": "https://cremecycles.com/images/glowne/12.jpg",
-    "name": "bicycle",
-    "count": 3,
-    "weight": "10g",
-    "comments": [],
-  }
   ]
 }

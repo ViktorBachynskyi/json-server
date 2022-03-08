@@ -36,7 +36,6 @@
     "name": "bicycle",
     "count": 3,
     "weight": "10g",
-    "comments": [],
     }
   ]
 }

@@ -35,10 +35,6 @@
     "imageUrl": "https://cremecycles.com/images/glowne/12.jpg",
     "name": "bicycle",
     "count": 3,
-    "size": {
-      "width": "200",
-      "height": "500",
-      },
     "weight": "10g",
     "comments": [],
     }
